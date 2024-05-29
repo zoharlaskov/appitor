@@ -1,0 +1,20 @@
+@font-face {
+  font-family: font-name;
+  src: url(/fonts/Montserrat-VariableFont_wght.f595c38f.ttf);
+}
+
+@font-face {
+  font-family: font-name1;
+  src: url(/fonts/Montserrat-VariableFont_wght.f595c38f.ttf);
+}
+
+@font-face {
+  font-family: font-name2;
+  src: url(/fonts/NotoSansJP-VariableFont_wght.1a0db9d5.ttf);
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
